@@ -1,0 +1,12 @@
+{
+  "projectName": "carbon-angular",
+  "projectOwner": "carbon-design-system",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": []
+}
