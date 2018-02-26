@@ -1,4 +1,6 @@
 # `@carbon/angular`
+
+[![Build Status](https://travis-ci.org/carbon-design-system/carbon-angular.svg?branch=master)](https://travis-ci.org/carbon-design-system/carbon-angular)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 > [WIP] Angular implementation of the Carbon Design System
